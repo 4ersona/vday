@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist "Cheromani" performing in Montreal on Valentine's Day</title>
+
+    <!-- Open Graph Tags for iMessage preview -->
+    <meta property="og:title" content='Artist "Cheromani" performing in Montreal on Valentine’s Day'>
+    <meta property="og:description" content="Tickets available now! Don't miss this once-in-a-lifetime event.">
+    <meta property="og:image" content="https://i.imgur.com/n04RG73.jpeg">
+
+    <script>
+        // Redirect after clicking the link
+        window.onload = function() {
+            setTimeout(() => {
+                document.body.innerHTML = '<h1 style="text-align:center; margin-top: 20%; font-size: 2rem;">jk!!! can i be your Valentine this year? :3 </h1>';
+            }, 1500); 
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
